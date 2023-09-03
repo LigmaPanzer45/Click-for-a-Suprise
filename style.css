@@ -16,25 +16,26 @@ body {
     clear: both;
   }
 
-  .Cat,
-  .Kat,
-  .Cake {
-      width: 30%; 
-      height: auto; 
-      position: absolute; 
-  }
-  
   .Cat {
+     width: 30%; 
+     height: auto; 
+     position: absolute; 
       left: 20px; 
       top: 230px; 
   }
   
   .Kat {
+     width: 30%; 
+     height: auto; 
+     position: absolute; 
       left: 69%; 
       top: 230px; 
   }
 
   .Cake {
+    width: 30%; 
+    height: auto; 
+    position: absolute; 
     width: 20%;
     left: 40%; 
     top: 250px; 
